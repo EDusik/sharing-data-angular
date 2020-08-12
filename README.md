@@ -1,7 +1,7 @@
 <div id="about"> 
 
 ## :page_facing_up: About
-This project contains examples of ways to communicate data between components using Angular
+This project contains examples of ways to communicate data between components using Angular based in this <a href="https://fireship.io/lessons/sharing-data-between-angular-components-four-methods/" target="_blank">post</a>
 </div>
 
 <div id="tecnologies"> 
